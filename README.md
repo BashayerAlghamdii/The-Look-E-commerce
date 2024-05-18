@@ -3,6 +3,7 @@
 ![image](https://github.com/BashayerAlghamdii/The-Look-E-commerce/assets/101873009/32c6de21-40d0-488d-a9e8-8b32c5260cb7)
 
 ### The project was implemented by using Power Bi and BigQuery to utilize the Look E-commerce Dataset, analyzing sales trends, top-selling products, seasonal patterns.
+### The project link: https://drive.google.com/drive/folders/1RwtifgxF8_lbImVl_zBfdr-HvANoK0OB?usp=sharing
 
 ![Screenshot (374)](https://github.com/BashayerAlghamdii/The-Look-E-commerce/assets/101873009/bfa9a221-0aa6-4610-b20e-24ecea7cda4f)
 ![Screenshot (375)](https://github.com/BashayerAlghamdii/The-Look-E-commerce/assets/101873009/8cb0e5c0-bab4-4bf1-82ef-831e64ebf7c5)
